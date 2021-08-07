@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-Widely used data structures and algorithms implemented in C++.
+Widely used data structures and algorithms implemented in C++ as a part of a university course.
 
 ### Implementation tree
 
